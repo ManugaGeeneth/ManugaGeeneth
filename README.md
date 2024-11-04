@@ -1,4 +1,4 @@
-<h2 align="center">Hey there 👋, I'm [Your Name]!</h2>
+<h2 align="center">Hey there 👋, I'm Manuga!</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-username&color=brightgreen" alt="views">
@@ -9,10 +9,10 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🌱 I’m [Your Age] years old.
-- 📚 I’m currently pursuing a degree in [Your Degree or Field] at [Your University].
-- 🌐 I'm passionate about web development, programming, and [Your Interests].
-- 💬 Ask me about HTML, CSS, JavaScript, C++, [Other Skills You Have].
+- 🌱 I’m 22 years old.
+- 📚 I’m currently pursuing a degree in Data Science at SLIIT.
+- 🌐 I'm passionate about web development, programming, & UI UX.
+- 💬 Ask me about HTML, CSS, JavaScript, C++, python, java, PHP, SQL, Figma.
 - 🤝 I’m looking to collaborate on projects related to web development, open-source contributions, and software tools.
 
 ---
@@ -24,7 +24,6 @@
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   <!-- Add more badges based on your skills -->
 </p>
 
@@ -50,7 +49,6 @@
 - Email: [Your Email](mailto:your-email@example.com)
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-username/)
 - Instagram: [Your Instagram](https://www.instagram.com/your-username/)
-- WhatsApp: +94 [Your Number] (if you'd like to include it)
 
 ---
 
